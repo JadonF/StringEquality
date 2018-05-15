@@ -1,0 +1,9 @@
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 4\StringEqualityJadonF\StringEquality\StringEquality\bin\Debug\StringEquality.exe.config
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 4\StringEqualityJadonF\StringEquality\StringEquality\bin\Debug\StringEquality.exe
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 4\StringEqualityJadonF\StringEquality\StringEquality\bin\Debug\StringEquality.pdb
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 4\StringEqualityJadonF\StringEquality\StringEquality\obj\Debug\StringEquality.csprojResolveAssemblyReference.cache
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 4\StringEqualityJadonF\StringEquality\StringEquality\obj\Debug\StringEquality.Form1.resources
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 4\StringEqualityJadonF\StringEquality\StringEquality\obj\Debug\StringEquality.Properties.Resources.resources
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 4\StringEqualityJadonF\StringEquality\StringEquality\obj\Debug\StringEquality.csproj.GenerateResource.Cache
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 4\StringEqualityJadonF\StringEquality\StringEquality\obj\Debug\StringEquality.exe
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 4\StringEqualityJadonF\StringEquality\StringEquality\obj\Debug\StringEquality.pdb
